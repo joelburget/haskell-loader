@@ -1,0 +1,16 @@
+{
+    "name": "haskell-loader",
+    "version": "0.0.1",
+    "author": "Joel Burget",
+    "description": "Run Haskell files!",
+    "dependencies": {
+        "spawn-sync": "1.0.*",
+        "event-stream": "^3.2.2"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ]
+}
